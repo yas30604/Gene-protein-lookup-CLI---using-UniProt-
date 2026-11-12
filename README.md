@@ -1,4 +1,4 @@
-This is a command line tool used to look up gene in UniProt and gives you back a summary of its protein information as well as an option to export a FASTA 
+This is a command line tool used to look up a gene in UniProt and gives you back a summary of its protein information as well as an option to export a FASTA 
 
 List of information provided by the summary; 'Protein' (name), 'Accession', 'Sequence length' (in amino acids), 'Weight'  (in Da), 'Function', 'Location' (subcellular location), 'Interactors' (gene interactors)
 
