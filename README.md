@@ -11,4 +11,4 @@ Using argparse is useful as nothing needs to be typed interactively and typicall
 
 Giving the user more options to choose what data they would and would not want, is probably a better outcome for this project, as well as giving them the opportunity to loop over and get multiple protein lookups for their FASTA export
 
-The purpose of this project as a final project for CS50p (thus the name of the file), and also as an opportunity to get better at implementing what I have learned towards a tool I would find fun.
+This project is my final project for CS50p (thus the name of the file), and also acts as an opportunity to get better at implementing what I have learned towards a tool I would find fun.
